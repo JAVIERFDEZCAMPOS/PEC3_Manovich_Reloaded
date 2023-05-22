@@ -24,7 +24,7 @@ Los dos elementos seleccionados serían los siguientes:
 - Caso 2: **NFC (Near Field Communication)**
 
 
-## Redescubriendo la remediación: Caso 1
+## Redescubriendo la hibridación: Caso 1
 
 Para entender el concepto de NFT tenemos que empezar diferenciando entre lo que es un bien fungible y un bien no fungible.
 
@@ -50,7 +50,7 @@ En la actualidad desconocemos los tipos de activos digitales que pueden utilizar
 Por lo que los NFT son una hibridación que actualmente desconocemos el alcance de los activos para los frecuentes se puede usar, siendo su principal desarrollo en la actualidad las obras digitales cuya hibridación procedería de una obra de arte, ya que desde las gafas de Manovich: 
 >“ la hibridación de los medios se da cuando se produce una fusión entre los elementos que comparten técnicas de software y las interfaces producen una experiencia nueva, diferente de la experimentación de los elementos por separado. “ 
 
-## Redescubriendo la remediación: Caso 2
+## Redescubriendo la hibridación: Caso 2
 
 El concepto de NFC (Near Field Communication) es una tecnología inalámbrica que funciona en la banda de los 13,56 MHz, derivada de las etiquetas RFID, pudiendo transmitir información entre dispositivos en una distancia aproximada de 20 cm.
 
